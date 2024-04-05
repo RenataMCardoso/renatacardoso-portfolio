@@ -7,7 +7,6 @@ var digitado = new Typed(".digitando",{
     loop:true
 })
 
-
 /* Formulário envio direto para e-mail */
 
 /* class FormSubmit{
