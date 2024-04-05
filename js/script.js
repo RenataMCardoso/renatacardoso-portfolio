@@ -10,7 +10,7 @@ var digitado = new Typed(".digitando",{
 
 /* Formulário envio direto para e-mail */
 
-class FormSubmit{
+/* class FormSubmit{
     constructor(settings){
         this.settings = settings;
         this.form = document.querySelector(settings.form);
@@ -41,4 +41,4 @@ const formSubmit = new FormSubmit({
     error: "<h1 class='erro'> Não foi possível enviar sua mensagem. </h1>",
 });
 
-formSubmit.init();
+formSubmit.init(); */
