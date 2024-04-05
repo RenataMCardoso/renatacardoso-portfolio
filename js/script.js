@@ -3,7 +3,7 @@
 var digitado = new Typed(".digitando",{
     strings:["Estudante de ADS...", "", "Estudante Front End...", "",  "Estudante Back End...", "", "Estudante Full Stack..."],
     typeSpeed:100,
-    BackSpeed:60,
+    backSpeed:60,
     loop:true
 })
 
